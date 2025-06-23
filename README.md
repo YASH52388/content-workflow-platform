@@ -3,6 +3,7 @@
 A full-stack content management system designed to help social media Influencers manage clients, projects, tasks, and invoices efficiently 
 
 ---
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/4ffeb721-8db3-4daf-a228-219eaa545170" />
 
 ## 🚀 Features
 
