@@ -32,7 +32,7 @@ A full-stack content management system designed to help social media Influencers
 ---
 
 ## 🗂 Project Structure
-
+```
 content-workflow-platform/
 ├── backend/
 │   ├── models/
@@ -54,7 +54,7 @@ content-workflow-platform/
 │   ├── index.html
 │   ├── package.json
 │   └── eslint.config.js
-
+```
 
 ## 🧪 Getting Started
 
