@@ -27,7 +27,7 @@ A full-stack content management system designed to help social media Influencers
 - JWT for authentication
 
 ### Frontend
-React.js
+- React.js
 
 ---
 
