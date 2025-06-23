@@ -33,6 +33,27 @@ A full-stack content management system designed to help social media Influencers
 
 ## 🗂 Project Structure
 
+content-workflow-platform/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── utils/
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── App.css
+│   │   ├── assets/
+│   │   └── components/
+│   │       ├── layout/        # Header, Sidebar
+│   │       └── ui/            # Reusable UI components (Button, Card, etc.)
+│   ├── index.html
+│   ├── package.json
+│   └── eslint.config.js
 
 
 ## 🧪 Getting Started
@@ -45,14 +66,19 @@ A full-stack content management system designed to help social media Influencers
 ### Backend Setup
 
 bash
+```
 cd backend
 npm install
 cp .env.example .env # Add your MongoDB URI and JWT secret
 npm start
 
+```
+
 
 ### Frontend Setup
-
+```
 cd frontend
 npm install
 npm run dev
+
+```
